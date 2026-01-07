@@ -1,0 +1,16 @@
+﻿Ø>AÝI Chatbot Started
+Type 'bye' to exit
+
+You: Hello
+Bot: Hello! How can I help you today?
+
+You: What are your support hours?
+Bot: Our support hours are 9 AM to 6 PM, Monday to Friday.
+
+You: How can I contact you?
+Bot: You can contact us at support@example.com
+
+You: Bye
+Bot: Thank you for chatting with us. Have a great day!
+
+Chat session ended.
